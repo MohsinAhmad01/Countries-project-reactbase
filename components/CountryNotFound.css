@@ -1,0 +1,20 @@
+/* CountryNotFound.css */
+.not-found-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8d7da;
+    color: #721c24;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  
+  .not-found-message {
+    padding: 1rem 2rem;
+    border: 1px solid #f5c6cb;
+    border-radius: 0.25rem;
+    background-color: #f8d7da;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
